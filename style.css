@@ -53,7 +53,8 @@ header p {
 }
 
 .banner__media img {
-    height: 50%
+    max-width: 100%;
+    height: auto;
 }
 
 .banner__content {
